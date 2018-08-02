@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OYM</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+    <string-array name="Geners">
+        <item>General</item>
+        <item>Pop</item>
+        <item>Rock</item>
+        <item>Ethnic</item>
+        <item>Jazz</item>
+        <item>Hip-Hop</item>
+        <item>Global Combined</item>
+
+    </string-array>
+</resources>
+
